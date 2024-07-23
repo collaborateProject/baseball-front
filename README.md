@@ -18,6 +18,7 @@
 ## Library
 |Name|License|Copyright|
 |-----|-----|-----|
-|Material|...|...|
-|ScreenUtil|Apache-2.0|...|
-|Material|Apache-2.0|...|
+|material|...|...|
+|flutter_screenutil 5.9.3|Apache-2.0|...|
+|table_calendar 3.1.2|Apache-2.0|...|
+|intl 0.19.0|BSD-3-Clause|Copyright 2013, the Dart project authors.|
